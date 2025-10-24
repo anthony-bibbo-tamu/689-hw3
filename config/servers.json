@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "pdf-reader",
+      "command": "node",
+      "args": ["./servers/pdf-reader-mcp/index.js"]
+    }
+  ]
+}
